@@ -1,5 +1,5 @@
-#Name : Hariharasudhan N
-#Reg no : 212224040102
+# Name : Hariharasudhan N
+# Reg no : 212224040102
 
 # Series Queues with infinite capacity - Open Jackson Network
 
